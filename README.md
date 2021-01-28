@@ -7,7 +7,7 @@
 > “Eppur si muove!”
 ---
 <h2> let <spam style="color: #00AA33">helloWorld</spam></h2>
-<hr>
+
 I'm Ted Martins,
 I'm a Computer Science student and currently I'm in love with code.
 
@@ -16,7 +16,7 @@ I'm a Computer Science student and currently I'm in love with code.
 - Looking for an opportunity in the dev world.
 
 <h2> let <spam style="color: #00AA33">myDeploys</spam></h2>
-<hr>
+
 To organize the things better, all the challenges and small projects are within the following repository:
 
 ```sh
