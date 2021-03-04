@@ -12,7 +12,8 @@ I'm Ted Martins,
 I'm a Computer Science student and currently I'm in love with code.
 
 - I’m currently enrolled in a lot of bootcamp's and challenges
-- Studing Technologies: Javascript, Java, C#, Ruby, Angular, Vue.JS and ReactJS.
+- Studing Technologies: Javascript, NodeJS, ReactJS, React Native and NextJS Framework.
+- Next Technologies to study: Typescript, Ruby, Python, Java, C# and C/C++.
 - Looking for an opportunity in the dev world.
 
 <h2> let <spam style="color: #00AA33">myDeploys</spam></h2>
