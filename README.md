@@ -11,7 +11,7 @@
 I'm Ted Martins,
 I'm a Computer Science student and currently I'm in love with code.
 
-- I’m currently enrolled in a lot of bootcamp's and challenges
+- I’m currently enrolled in a lot of bootcamp's, courses and challenges.
 - Studying Technologies: Javascript, NodeJS, ReactJS, React Native and NextJS Framework.
 - Next Technologies to study: Typescript, Ruby, Python, Java, C# and C/C++.
 - Looking for an opportunity in the dev world.
@@ -24,6 +24,10 @@ To organize the things better, all the challenges and small projects are within 
 https://github.com/TedMartins/tedmartins.github.io/tree/main/challenges
 ```
 
-[https://github.com/TedMartins/tedmartins.github.io/tree/main/challenges](https://github.com/TedMartins/tedmartins.github.io/tree/main/challenges)
+You can also see some of my tests scripts in CodePen:
+
+```
+https://codepen.io/tedmartins
+```
 
 Hope you enjoy the trip!
