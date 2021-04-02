@@ -18,13 +18,13 @@ I'm a Computer Science student and currently I'm in love with code.
 
 ## `<MyDeploys />`
 
-To organize the things better, all the challenges and small projects are within the following repository:
+To organize the things better, some challenges and small projects are within the following repository:
 
 ```sh
 https://github.com/TedMartins/tedmartins.github.io/tree/main/challenges
 ```
 
-You can also see some of my tests scripts in CodePen:
+You can also see some of my test scripts in CodePen:
 
 ```
 https://codepen.io/tedmartins
