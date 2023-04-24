@@ -2,7 +2,7 @@
 
 > “Eppur si muove!”
 
-Oi, eu sou o Ted, um desenvolvedor de código entusiasmado e cheio de energia! 
+Oi, eu sou o Ted, um desenvolvedor Front-end entusiasmado e cheio de energia! 
 
 💻 Estudante de Ciência da computação com uma paixão em aprender e crescer na área de desenvolvimento de software, eu estou focado em aprimorar minhas habilidades em React, React Native, JavaScript e TypeScript!
 
